@@ -88,15 +88,7 @@ plt.scatter(scaled_data[:, 2], scaled_data[:, 3], c=labels)
 plt.xlabel('Feature 3')
 plt.ylabel('Feature 4')
 plt.title('K-Means Clustering Results')
-plt.show()
-
-
-# Plotting clusters:
-plt.scatter(scaled_data[:, 2], scaled_data[:, 3], c=labels)
-plt.xlabel('Feature 3')
-plt.ylabel('Feature 4')
-plt.title('K-Mea Clustering Results')
-plt.show()
+plt.show()
 
 
 # Plotting clusters:
